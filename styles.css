@@ -3,11 +3,18 @@ background-image: url(https://images.unsplash.com/flagged/photo-1593005510329-8a
 }
 
 .light_container {
-    width:80px;
-    height: 80px;
+    width:200px;
+    height: 200px;
+    background-color: aquamarine;
+    border-radius: 10px;
+    border: 1px solid red;
+    margin: 10px;
+    box-shadow: green;
+
 }
 
 .lightbulb {
     width: 100%;
     height: 100%;
+    justify-content: space-around;
 }
